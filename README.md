@@ -11,8 +11,11 @@ Smelter Tutorial for music menus/playlists (WIP)
 Drum Art
 Gamelan Art
 Harp Art
-LOADS of other jobs
-
+LOADS of other jobs, Like
+Coding Research Tree
+Coding Joy
+Coding Pawns with instruments
+ARTPARTY!!!
 
 
 RESEARCH "HoldRoofs"
