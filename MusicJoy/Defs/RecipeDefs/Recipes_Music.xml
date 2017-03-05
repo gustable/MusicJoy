@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+
+	<RecipeDef Abstract="True" Name="PlayRecordedMusic">
+		<jobString>Playing recorded music from Album.</jobString>
+		<workAmount>2500</workAmount>
+		<workSpeedStat>StonecuttingSpeed</workSpeedStat>
+		<workSkill>Crafting</workSkill>
+		<workSkillLearnFactor>0.25</workSkillLearnFactor>
+		<effectWorking>CutStone</effectWorking>
+		<soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+		<targetCountAdjustment>1</targetCountAdjustment>
+		<workerCounterClass>RecipeWorkerCounter_MakeStoneBlocks</workerCounterClass>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>StoneChunks</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>StoneChunks</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef>
+
+	
+	<RecipeDef ParentName="PlayRecordedMusic">
+		<defName>PlayRachmaninov</defName>
+		<label>Play Rachmaninov: Piano Concerto No.3 in D-, Op.30</label>
+		<description>You dust off the old disc and set it on the turntable. This record is, Sergey Vasilyevich Rachmaninov's Piano Concerto No.3 in D-, Op.30, "Allegro ma non tanto."</description>
+		<jobString>Playing symphony music.</jobString>
+		<recipeUsers>
+			<li>Victrola_Phonograph</li>
+			<li>MusicalBase</li>
+		</recipeUsers>
+	</RecipeDef>
+  
+
+	<RecipeDef ParentName="PlayRecordedMusic">
+		<defName>PlayRossini</defName>
+		<label>Play Rossini: Overture to the Opera "La gazza ladra."</label>
+		<description>You dust off the old disc and set it on the turntable. This record is, Gioachino Antonio Rossini's Overture to "La gazza ladra (The Thieving Magpie; melodramma)."</description>
+		<jobString>Playing opera music</jobString>
+		<recipeUsers>
+			<li>Victrola_Phonograph</li>
+			<li>MusicalBase</li>
+		</recipeUsers>
+	</RecipeDef>  
+</RecipeDefs>
