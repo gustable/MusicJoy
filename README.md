@@ -3,8 +3,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 
 ```html
-
-<pre>
     	<div class="container">
         	<div class="block two first">
         		<div class="wrap">
@@ -19,7 +17,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 </ul>
  		</div>
 	</div>
-</pre>
 ```
 
 TODO:
