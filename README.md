@@ -3,7 +3,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 
 ```html
-<html>
 <head>
 	<title></title>
 	<meta content="text/html; charset=UTF-8" http-equiv="content-type">
@@ -77,7 +76,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 <p class="c18"><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 6.67px;"><img alt="" src="https://lh4.googleusercontent.com/xuAbCCf2FlzxgBV2NaxBU6q8zKGYofyg2DLQWDzc6ZS6bOqqjLfnylj8_TZ8eQdhhiTnDmgYcgPG_LP5jv3MiWct-7QfNoU3mCRwOBFONO4i2ifZnLA97dva7sbZQ_IIzfSVzyMF" style="width: 624.00px; height: 6.67px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title="horizontal line" /></span></p>
 </body>
-</html>
 ```
 
 TODO:
