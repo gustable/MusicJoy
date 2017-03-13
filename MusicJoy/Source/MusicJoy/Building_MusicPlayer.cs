@@ -147,6 +147,22 @@ namespace MusicJoy
             }
         }
 
+        /// <summary>
+        /// Tying to get class read by program XML
+        /// </summary>
+        public EditorShowClassNameAttribute getClass
+        {
+            get
+            {
+                return (EditorShowClassNameAttribute)this;
+            }
+        }
+
+        public static explicit operator EditorShowClassNameAttribute(Building_MusicPlayer v)
+        {
+            throw new NotImplementedException();
+        }
+
 
         ///public virtual Map get_Map()
         ///{

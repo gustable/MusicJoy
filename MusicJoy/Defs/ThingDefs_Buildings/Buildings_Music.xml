@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<ThingDefs>
 
 <!-- 
 We Know this is solid, because the object builds and shows status, including a BillsTab.
@@ -12,7 +12,7 @@ We Know this is solid, because the object builds and shows status, including a B
 		<passability>PassThroughOnly</passability>
 		<pathCost>150</pathCost>
 		<castEdgeShadows>false</castEdgeShadows>
-		<fillPercent>100</fillPercent>
+		<fillPercent>50</fillPercent>
 		<rotatable>true</rotatable>
 		<selectable>true</selectable>
 		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
@@ -23,7 +23,7 @@ We Know this is solid, because the object builds and shows status, including a B
 
     <ThingDef ParentName="MusicalBase">
 		<defName>Victrola_Phonograph</defName>
-		<ThingClass>MusicJoy.Building_MusicPlayer</ThingClass>
+		<!-- <ThingClass>Building_MusicPlayer</ThingClass> -->
 		<label>Victrola Phonograph</label>
 		<description>An ingenious device for amplifying sound recorded on thin discs using a needle in a groove.</description>
 		<designationHotKey>Misc5</designationHotKey>
@@ -99,4 +99,4 @@ We Know this is solid, because the object builds and shows status, including a B
 		</tradeTags>
 
 	</ThingDef>
-</Defs>
+</ThingDefs>
