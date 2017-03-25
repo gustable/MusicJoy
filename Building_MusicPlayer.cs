@@ -81,6 +81,15 @@ namespace MusicJoy
         private bool destroyedFlag = false;
 
 
+//Define inheritance to be like another object
+        protected Building_WorkTable SelTable
+        {
+            get
+            {
+                return (Building_WorkTable)base.SelThing;
+            }
+        }
+
 
         // ===================== Setup Work =====================
         // --- Not really needed here ---
@@ -145,6 +154,22 @@ namespace MusicJoy
             {
                 return GenAdj.CellsOccupiedBy(this);
             }
+        }
+
+        /// <summary>
+        /// Tying to get class read by program XML
+        /// </summary>
+        public EditorShowClassNameAttribute getClass
+        {
+            get
+            {
+                return (EditorShowClassNameAttribute)this;
+            }
+        }
+
+        public static explicit operator EditorShowClassNameAttribute(Building_MusicPlayer v)
+        {
+            throw new NotImplementedException();
         }
 
 
