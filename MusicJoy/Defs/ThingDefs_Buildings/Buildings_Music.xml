@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+<!-- 
+We Know this is solid, because the object builds and shows status, including a BillsTab.
+
+-->
+
+	<ThingDef Abstract="True" Name="MusicalBase" ParentName="BuildingBase">
+		<ThingClass>MusicJoy.Building_MusicPlayer</ThingClass>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<pathCost>150</pathCost>
+		<castEdgeShadows>false</castEdgeShadows>
+		<fillPercent>50</fillPercent>
+		<rotatable>true</rotatable>
+		<selectable>true</selectable>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<designationCategory>Joy</designationCategory>
+		<surfaceType>Item</surfaceType>
+		<socialPropernessMatters>true</socialPropernessMatters>
+	</ThingDef>
+
+    <ThingDef ParentName="MusicalBase">
+		<defName>Victrola_Phonograph</defName>
+		<!-- <ThingClass>Building_MusicPlayer</ThingClass> -->
+		<label>Victrola Phonograph</label>
+		<description>An ingenious device for amplifying sound recorded on thin discs using a needle in a groove.</description>
+		<designationHotKey>Misc5</designationHotKey>
+		<staticSunShadowHeight>0.05</staticSunShadowHeight>
+	
+		<graphicData>
+			<texPath>Things/Building/Joy/Victrola_Phonograph</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<blueprintGraphicData>
+			<texPath>Things/Building/Joy/Victrola_Phonograph_Faded</texPath>
+		</blueprintGraphicData>
+		<uiIconPath>Things/Building/Joy/Victrola_Phonograph_MenuIcon</uiIconPath>
+		
+		<statBases>
+     		<MaxHitPoints>100</MaxHitPoints>
+     		<Beauty>15</Beauty>
+     		<WorkToMake>2000</WorkToMake>
+     		<Flammability>1.0</Flammability>
+			<Mass>33</Mass>
+			<MarketValue>200</MarketValue>
+			<EntertainmentStrengthFactor>1</EntertainmentStrengthFactor>
+		</statBases>
+		<tickerType>Normal</tickerType>
+		<costList>
+     		<WoodLog>100</WoodLog>
+     		<Steel>50</Steel>
+			<Component>2</Component>
+		</costList>
+		
+		<inspectorTabs>
+			<li>ITab_Bills</li>
+		</inspectorTabs>
+		
+		<building>
+			<ignoreNeedsPower>true</ignoreNeedsPower>
+			<isJoySource>true</isJoySource>
+			<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+			<watchBuildingStandDistanceRange>
+				<min>-4</min>
+				<max>4</max>
+			</watchBuildingStandDistanceRange>
+			<watchBuildingStandRectWidth>9</watchBuildingStandRectWidth>
+			<unpoweredWorkTableWorkSpeedFactor>0.95</unpoweredWorkTableWorkSpeedFactor>
+		</building>
+		
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<killedLeavings>
+			<Component>2</Component>
+			<ChunkSlagSteel>1</ChunkSlagSteel>
+		</killedLeavings>
+		
+		<placeWorkers>
+			<li>PlaceWorker_WatchArea</li>
+		</placeWorkers>
+		
+		<comps>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Breakdownable"/>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<basePowerConsumption>0</basePowerConsumption>
+				<transmitsPower>true</transmitsPower>
+			</li>
+		</comps>
+		
+		<hasInteractionCell>True</hasInteractionCell>
+		<interactionCellOffset>(0,0,1)</interactionCellOffset>
+		
+		
+		<tradeTags>
+			<li>Victrola Phonograph</li>
+		</tradeTags>
+
+	</ThingDef>
+</ThingDefs>

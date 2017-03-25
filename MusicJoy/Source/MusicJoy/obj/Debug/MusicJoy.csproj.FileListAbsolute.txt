@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\Assembly-CSharp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\UnityEngine.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\NAudio.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\NVorbis.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\UnityEngine.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\MusicJoy.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\bin\Debug\MusicJoy.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\obj\Debug\MusicJoy.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Assemblies\MusicJoy.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MusicJoy\Source\MusicJoy\obj\Debug\MusicJoy.csprojResolveAssemblyReference.cache
