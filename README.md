@@ -40,20 +40,17 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 6.67px;">![](https://lh4.googleusercontent.com/xuAbCCf2FlzxgBV2NaxBU6q8zKGYofyg2DLQWDzc6ZS6bOqqjLfnylj8_TZ8eQdhhiTnDmgYcgPG_LP5jv3MiWct-7QfNoU3mCRwOBFONO4i2ifZnLA97dva7sbZQ_IIzfSVzyMF "horizontal line")</span>
 
-TODO:
-=====
-Phonograph Thingdefs (DONE)
-Phonograph Art (DONE)
-Phonograph Front 1/3 Icon Testing (DONE)
-Smelter Tutorial for music menus/playlists (WIP)
-Drum Art
-Gamelan Art
-Harp Art
-LOADS of other jobs, Like
-Coding Research Tree
-Coding Joy
-Coding Pawns with instruments
-ARTPARTY!!!
+<br>TODO:
+<br>=====
+<br>Phonograph Thingdefs (DONE)
+<br>Phonograph Art (DONE)
+<br>Phonograph Front 1/3 Icon Testing (DONE)
+<br>Smelter Tutorial for music menus/playlists (DONE)
+<br>Drum Art
+<br>Xylophone Art
+<br>Harp Art
+<br>Lute Art
+<br>Coding Research Tree (DONE)
+<br>Coding Joy
+<br>Coding Pawns with instruments
 
-
-RESEARCH "HoldRoofs"
