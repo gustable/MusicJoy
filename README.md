@@ -45,12 +45,13 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 <br>Phonograph Thingdefs (DONE)
 <br>Phonograph Art (DONE)
 <br>Phonograph Front 1/3 Icon Testing (DONE)
-<br>Smelter Tutorial for music menus/playlists (DONE)
-<br>Drum Art
+<br>Code for music menus/playlists (DONE)
+<br>Hand Drum Art (DONE)
 <br>Xylophone Art
-<br>Harp Art
-<br>Lute Art
-<br>Coding Research Tree (DONE)
+<br>Harp Art (DONE)
+<br>Lute Art (DONE)
+<br>Piano Art (DONE)
+<br>Coding Research Tree (mostly DONE)
 <br>Coding Joy
 <br>Coding Pawns with instruments
 
