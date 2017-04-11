@@ -28,16 +28,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 <span style="font-size:36px;"><span style="font-family:verdana,geneva,sans-serif;"><span class="c16">                                                      ”</span></span></span>
 
-# <span style="font-family:verdana,geneva,sans-serif;">OUR INTRO ART</span><span class="c30 c31"> </span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 161.50px; height: 161.50px;">![Victrola_Phonograph.png](https://lh4.googleusercontent.com/kWEIFlJ6IpActXoXZ3RK9x14NZO5P2vxGcZ65hO4mh-8jmHx3u3N1wmLbb2VfvZwBUMkf5ooW7wOix9gbPmWTNWr23lXQwp4rIUHG5Tixeu7TOZXugggu6XtpL-OZfAm1f7z7QNJ)</span>
-
-<span style="font-family:verdana,geneva,sans-serif;"><span class="c13 c34">I am starting with Industrialization and Working towards Spacer.  I might even do Medieval music via lutes & bards etc.</span></span>
-
-# <span>HELP WANTED.      </span><span class="c27 c28">👽</span>
-
-<span style="font-family:verdana,geneva,sans-serif;"><span class="c10">I've made a fair bit of progress and could use some programming advice or at least a code auditor to help me clean it up and/or find bugs before they rear their heads.  C# has been fun thus far, and not too unfamiliar, and of course the XML is a breeze.  I also found a wealth of music in the form of royalty-free MIDI scores, which I can play and record on my own gear.  If anyone is interested in contributing to this project, I'm on github (</span><span class="c10">[https://github.com/gustable/MusicJoy](https://www.google.com/url?q=https://github.com/gustable/MusicJoy&sa=D&ust=1488734554794000&usg=AFQjCNEhJgC71zODc2k9K7lfIbgTiFGhEQ)</span><span class="c10 c13">), and on Discord.</span></span>
-
-*   <span style="font-family:verdana,geneva,sans-serif;"><span class="c13 c17">White_altar                      </span></span>
-
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 6.67px;">![](https://lh4.googleusercontent.com/xuAbCCf2FlzxgBV2NaxBU6q8zKGYofyg2DLQWDzc6ZS6bOqqjLfnylj8_TZ8eQdhhiTnDmgYcgPG_LP5jv3MiWct-7QfNoU3mCRwOBFONO4i2ifZnLA97dva7sbZQ_IIzfSVzyMF "horizontal line")</span>
 
 <br>TODO:
