@@ -14,9 +14,9 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 
 <span class="c15"> </span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 811.50px; height: 425.36px;">![](https://lh5.googleusercontent.com/gb3I5RsLyyTSyvbE6stfiVDEH_LLIXL_zHPmxF7rGIW4u9r1M5tK7fcNoIy2fkanBEV18hEIin-F5l7MY_s2lKeFxcUOWJxLRf8Q1jpQFKjxsHvqsx0XmP5Ev_oG5cySoMbPXKfD "Placeholder image")</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 811.50px; height: 425.36px;">![](https://github.com/gustable/MusicJoy/blob/master/MusicJoy/About/Untitled.png?raw=true "MusicJoy Logo")</span>
 
-<span style="color:#008000;"><span class="c20">https://github.com/gustable/MusicJoy/blob/master/MusicJoy/About/Untitled.png?raw=true</span></span>
+<span style="color:#008000;"><span class="c20"></span></span>
 
 # <span style="font-family:verdana,geneva,sans-serif;"><span class="c23">OUR OBJECTIVE</span></span>
 
