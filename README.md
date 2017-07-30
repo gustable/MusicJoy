@@ -42,6 +42,6 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 <br>Lute Art (DONE)
 <br>Piano Art (DONE)
 <br>Coding Research Tree (mostly DONE)
-<br>Coding Joy
-<br>Coding Pawns with instruments
+<br>Coding Joy (Help needed to get Joy Cranked up and Started)
+<br>Coding Pawns with instruments (mostly DONE)
 
