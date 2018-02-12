@@ -23,25 +23,14 @@ A RimWorld Mod that provides players with a variety of musical instruments and m
 <span style="font-family:verdana,geneva,sans-serif;"><span class="c6">A RimWorld Mod that provides players with a variety of musical instruments and music playback devices from</span> <span class="c6">D</span><span class="c6">rums and</span> <span class="c6">P</span><span class="c2">honographs to SubSpace Radio.</span></span>
 
 > <span style="font-size:36px;"><span style="font-family:verdana,geneva,sans-serif;"><span class="c12">“</span></span></span>
-
 <span style="font-family:verdana,geneva,sans-serif;"><span class="c24">the complete absence of music as a source of enjoyment/skill within the game has always irked me!</span></span>
-
-<span style="font-size:36px;"><span style="font-family:verdana,geneva,sans-serif;"><span class="c16">                                                      ”</span></span></span>
+<span style="font-size:36px;"><span style="font-family:verdana,geneva,sans-serif;"><span class="c16">”</span></span></span>
 
 <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 6.67px;">![](https://lh4.googleusercontent.com/xuAbCCf2FlzxgBV2NaxBU6q8zKGYofyg2DLQWDzc6ZS6bOqqjLfnylj8_TZ8eQdhhiTnDmgYcgPG_LP5jv3MiWct-7QfNoU3mCRwOBFONO4i2ifZnLA97dva7sbZQ_IIzfSVzyMF "horizontal line")</span>
 
 <br>TODO:
 <br>=====
-<br>Phonograph Thingdefs (DONE)
-<br>Phonograph Art (DONE)
-<br>Phonograph Front 1/3 Icon Testing (DONE)
-<br>Code for music menus/playlists (DONE)
-<br>Hand Drum Art (DONE)
-<br>Xylophone Art
-<br>Harp Art (DONE)
-<br>Lute Art (DONE)
-<br>Piano Art (DONE)
-<br>Coding Research Tree (mostly DONE)
-<br>Coding Joy (Help needed to get Joy Cranked up and Started)
-<br>Coding Pawns with instruments (mostly DONE)
+<br>Complete Rework In Progress.
+<br>(See design drawings)
+<br> Many thanks to Mehni for helping out with this post: https://github.com/Mehni/ExampleJob
 
